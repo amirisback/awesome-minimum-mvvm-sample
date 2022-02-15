@@ -4,8 +4,10 @@ Awesome Sample Minimum MVVM Android Sample
 - Easy To Use
 - Easy Code
 
-<img width="100px" height="100px" align="left" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/blink-bear.gif">
-<img width="100px" height="100px" align="left" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/blink-panda.gif">
+<p>
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/blink-bear.gif">
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/blink-panda.gif">
+</p>
 
 <table>
   <tr>
