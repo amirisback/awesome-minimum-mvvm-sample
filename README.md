@@ -1,5 +1,5 @@
 ## awesome-minimum-mvvm
-Awesome Sample Minimum MVVM
+Awesome Sample Minimum MVVM Android Sample
 
 <table>
   <tr>
