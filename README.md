@@ -1,5 +1,8 @@
 ## awesome-minimum-mvvm
 Awesome Sample Minimum MVVM Android Sample
+- Easy To learning
+- Easy To Use
+- Easy Code
 
 <table>
   <tr>
